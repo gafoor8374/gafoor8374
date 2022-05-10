@@ -16,7 +16,7 @@
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-🤝 My portfolio https://shaikgafoor-83.vercel.app/.
+🤝 My portfolio https://shaikgafoor.vercel.app/
 
 💬 You can conatct me mail shaikgafoor498814@gmail.com
 
